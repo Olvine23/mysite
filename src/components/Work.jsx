@@ -1,6 +1,5 @@
 import React from 'react';
-import WorkImg from '../assets/present.png';
-import realEstate from '../assets/expo.png';
+
 import 'tw-elements'
 
 const Work = () => {
