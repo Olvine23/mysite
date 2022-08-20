@@ -183,7 +183,7 @@ const Work = () => {
               <div class="carousel-item active relative float-left  w-full">
                 <img
                   src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(19).webp"
-                  class="block  w-full"
+                  class="block h-56  sm:h-92  w-full"
                   alt="Motorbike Smoke"
                 />
                 <div class="carousel-caption hidden md:block absolute text-center">
@@ -197,7 +197,7 @@ const Work = () => {
               <div class="carousel-item relative float-left w-full">
                 <img
                   src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(35).webp"
-                  class="block w-full"
+                  class="block h-56 sm:h-96 w-full"
                   alt="Mountaintop"
                 />
                 <div class="carousel-caption hidden md:block absolute text-center">
@@ -212,7 +212,7 @@ const Work = () => {
               <div class="carousel-item relative h-90 float-left w-full">
                 <img
                   src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(40).webp"
-                  class="block w-full"
+                  class="block h-56 sm:h-96 w-full"
                   alt="Woman Reading a Book"
                 />
                 <div class="carousel-caption hidden md:block absolute text-center">
