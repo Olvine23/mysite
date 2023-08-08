@@ -14,15 +14,13 @@ const Home = () => {
           Olvine George
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Front-End Developer.
+          I'm a Software Developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I'm a front end developer who produces visually stunning applications
-          using cutting-edge technologies. I am now concentrating on developing
-          web and mobile applications with Flutter and React JS.
+        Hello and welcome! I'm Olvine George, a passionate Software developer with a flair for turning lines of code into captivating visual journeys. With a heart that beats for clean and immersive user interfaces, I've embarked on a creative odyssey to bring digital dreams to life. This portfolio is a glimpse into my world, where pixels and imagination intertwine to build seamless, user-centric experiences. Join me as I explore the art of frontend development and share my journey through code and creativity.
         </p>
         <div>
-          <button className="text-white hover:text-green-400 group border-2 px-6 py-3 my-2 flex items-center  hover:border-[#28c7fa]">
+          <button className="text-white hover:text-green-400 group border-2 px-6 py-3 border-blue-500 my-2 flex items-center  hover:border-[#28c7fa]">
            <Link to ='work' smooth={true}>View Work</Link>
             <span className="group-hover:rotate-90 duration-300">
               <HiArrowNarrowRight className="ml-3 " />

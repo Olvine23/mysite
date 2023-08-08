@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from "react";
-import me from "../assets/me.jpg";
+import me from "../assets/ollynobg.png";
  
 
 const About = () => {
@@ -21,37 +21,24 @@ const About = () => {
           <div className="  text-4xl font-bold">
           <img   src={me} / >
          
-            <p className="mt-10 text-[#8892b0]">Olvine here 👋. <br/> These are some of the interesting facts about me.</p>
+            <p className="mt-10 text-[#8892b0]">
+              Olvine here 👋. <br/> These are some of the interesting facts about me.</p>
+
           </div>
-          <div>
+          <div className="mt-20">
             
-            <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
-            </p>
+        <p>Welcome to my digital realm, where innovation meets design, and code weaves the fabric of imagination. <br /> I am Olvine George, a frontend developer on a relentless quest to infuse life and elegance into the digital landscape. With a passion for creating visually stunning and user-centric experiences, I invite you to join me on a journey through my portfolio.
 
-            <br />
+Here, you'll discover a collection of projects that reflect my dedication to merging technology with aesthetics.
+<br /> 
+<p>
+  <br />
+From crafting responsive layouts that adapt seamlessly to any screen, to choreographing interactive elements that engage and inspire, each project embodies my dedication to pushing the boundaries of what's possible in the world of frontend development.
+</p>
 
-            <p>
-            Experienced Software Developer adept in bringing forth expertise in design, installation, testing and
-            maintenance of software systems. Equipped with a diverse and promising skill-set. Proficient in
-            various platforms, languages, and embedded systems. Experienced with the latest cutting edge
-            development tools and procedures. Able to effectively self-manage during independent projects, as
-            well as collaborate as part of a productive team.
-            </p>
+ .</p>
 
-            <br />
-
-            <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
-            </p>
+        
           </div>
         </div>
       </div>
